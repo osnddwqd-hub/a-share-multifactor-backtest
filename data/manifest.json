@@ -1,0 +1,19 @@
+{
+  "source": "Eastmoney public daily K-line endpoint",
+  "retrieved_utc": "2026-11-03T11:20:38.152762+00:00",
+  "requested_start": "2022-01-01",
+  "requested_end": "2025-12-31",
+  "adjustment": "fqt=2 backward-adjusted OHLC for returns; fqt=0 raw OHLC for trade gates",
+  "universe_type": "30 manually fixed main-board stocks, NOT historical index membership; survivorship/selection bias",
+  "synthetic": false,
+  "files": {
+    "prices.csv": {
+      "sha256": "8abddcd5739225692f9dbca2006506f537ce0d253a275045029bd2dc04cc1cba",
+      "bytes": 3138769
+    },
+    "benchmarks.csv": {
+      "sha256": "cd3cbb40d7351cb0f3b1ffad9e4f5ab3729ec3650c96fdbe38c2e521917bb283",
+      "bytes": 84890
+    }
+  }
+}

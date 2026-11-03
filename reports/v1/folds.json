@@ -1,0 +1,170 @@
+[
+  {
+    "fold": 1,
+    "train_start": "2022-12-19",
+    "train_cutoff": "2023-12-29",
+    "max_label_end": "2023-12-29",
+    "observations_min": 230,
+    "mean_rank_ic": {
+      "momentum_60_20": -0.03627127529808575,
+      "reversal_5": -0.01939460994418253,
+      "low_volatility_20": 0.10870998172689521,
+      "low_turnover_20": 0.12102566914156912
+    },
+    "test_start": "2024-01-02",
+    "test_end": "2024-04-09",
+    "weights": {
+      "momentum_60_20": 0.0,
+      "reversal_5": 0.0,
+      "low_volatility_20": 0.4731959594252847,
+      "low_turnover_20": 0.5268040405747154
+    }
+  },
+  {
+    "fold": 2,
+    "train_start": "2023-03-24",
+    "train_cutoff": "2024-04-09",
+    "max_label_end": "2024-04-09",
+    "observations_min": 230,
+    "mean_rank_ic": {
+      "momentum_60_20": -0.014971954890672417,
+      "reversal_5": -0.009136236892361895,
+      "low_volatility_20": 0.10157713810069231,
+      "low_turnover_20": 0.1479803766116353
+    },
+    "test_start": "2024-04-10",
+    "test_end": "2024-07-11",
+    "weights": {
+      "momentum_60_20": 0.0,
+      "reversal_5": 0.0,
+      "low_volatility_20": 0.4070289697258097,
+      "low_turnover_20": 0.5929710302741902
+    }
+  },
+  {
+    "fold": 3,
+    "train_start": "2023-06-29",
+    "train_cutoff": "2024-07-11",
+    "max_label_end": "2024-07-11",
+    "observations_min": 230,
+    "mean_rank_ic": {
+      "momentum_60_20": 0.005122025630923814,
+      "reversal_5": -0.02292717273936158,
+      "low_volatility_20": 0.1302650391872663,
+      "low_turnover_20": 0.16160116331650345
+    },
+    "test_start": "2024-07-12",
+    "test_end": "2024-10-17",
+    "weights": {
+      "momentum_60_20": 0.017246561128344832,
+      "reversal_5": 0.0,
+      "low_volatility_20": 0.43862021065759876,
+      "low_turnover_20": 0.5441332282140563
+    }
+  },
+  {
+    "fold": 4,
+    "train_start": "2023-09-26",
+    "train_cutoff": "2024-10-17",
+    "max_label_end": "2024-10-17",
+    "observations_min": 230,
+    "mean_rank_ic": {
+      "momentum_60_20": 0.024979912157965765,
+      "reversal_5": -0.050392544244304595,
+      "low_volatility_20": 0.0673925793994868,
+      "low_turnover_20": 0.07584269693526359
+    },
+    "test_start": "2024-10-18",
+    "test_end": "2025-01-15",
+    "weights": {
+      "momentum_60_20": 0.1484997423942334,
+      "reversal_5": 0.0,
+      "low_volatility_20": 0.40063314141460504,
+      "low_turnover_20": 0.4508671161911615
+    }
+  },
+  {
+    "fold": 5,
+    "train_start": "2024-01-02",
+    "train_cutoff": "2025-01-15",
+    "max_label_end": "2025-01-15",
+    "observations_min": 230,
+    "mean_rank_ic": {
+      "momentum_60_20": -0.091779016497222,
+      "reversal_5": -0.0025952965251529792,
+      "low_volatility_20": 0.04290577039472881,
+      "low_turnover_20": 0.03262456076352992
+    },
+    "test_start": "2025-01-16",
+    "test_end": "2025-04-23",
+    "weights": {
+      "momentum_60_20": 0.0,
+      "reversal_5": 0.0,
+      "low_volatility_20": 0.5680601387120671,
+      "low_turnover_20": 0.43193986128793305
+    }
+  },
+  {
+    "fold": 6,
+    "train_start": "2024-04-10",
+    "train_cutoff": "2025-04-23",
+    "max_label_end": "2025-04-23",
+    "observations_min": 230,
+    "mean_rank_ic": {
+      "momentum_60_20": -0.15643672155348678,
+      "reversal_5": -0.01122449132237597,
+      "low_volatility_20": 0.10733797522802462,
+      "low_turnover_20": 0.04944836099823341
+    },
+    "test_start": "2025-04-24",
+    "test_end": "2025-07-25",
+    "weights": {
+      "momentum_60_20": 0.0,
+      "reversal_5": 0.0,
+      "low_volatility_20": 0.6846130715952531,
+      "low_turnover_20": 0.31538692840474686
+    }
+  },
+  {
+    "fold": 7,
+    "train_start": "2024-07-12",
+    "train_cutoff": "2025-07-25",
+    "max_label_end": "2025-07-25",
+    "observations_min": 230,
+    "mean_rank_ic": {
+      "momentum_60_20": -0.13115268971912605,
+      "reversal_5": -0.026917939084103275,
+      "low_volatility_20": 0.009517063133034236,
+      "low_turnover_20": 0.04048135086235672
+    },
+    "test_start": "2025-07-28",
+    "test_end": "2025-10-30",
+    "weights": {
+      "momentum_60_20": 0.0,
+      "reversal_5": 0.0,
+      "low_volatility_20": 0.19034730049460277,
+      "low_turnover_20": 0.8096526995053972
+    }
+  },
+  {
+    "fold": 8,
+    "train_start": "2024-10-18",
+    "train_cutoff": "2025-10-30",
+    "max_label_end": "2025-10-30",
+    "observations_min": 230,
+    "mean_rank_ic": {
+      "momentum_60_20": -0.16053060296491573,
+      "reversal_5": -0.027023050407155753,
+      "low_volatility_20": 0.015149704729662183,
+      "low_turnover_20": 0.06114446796586164
+    },
+    "test_start": "2025-10-31",
+    "test_end": "2025-12-31",
+    "weights": {
+      "momentum_60_20": 0.0,
+      "reversal_5": 0.0,
+      "low_volatility_20": 0.19856961802471992,
+      "low_turnover_20": 0.80143038197528
+    }
+  }
+]

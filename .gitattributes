@@ -1,0 +1,3 @@
+* text=auto eol=lf
+*.svg whitespace=-blank-at-eol
+*.html whitespace=-blank-at-eol

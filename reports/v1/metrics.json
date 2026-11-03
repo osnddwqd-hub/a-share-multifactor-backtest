@@ -1,0 +1,42 @@
+{
+  "strategy": {
+    "total_return": 0.18504229282246354,
+    "annualized_return": 0.09222269490242407,
+    "annualized_volatility": 0.09565646606897729,
+    "max_drawdown": -0.06564548188245911,
+    "sharpe": 0.9702146555836688,
+    "calmar": 1.4048597444612034,
+    "observations": 485,
+    "information_ratio_vs_000300": -0.5012385779695608,
+    "relative_wealth_return_vs_000300": -0.12303942240529564,
+    "information_ratio_vs_000905": -0.42324371388041027,
+    "relative_wealth_return_vs_000905": -0.13783763160490559
+  },
+  "000300": {
+    "name": "沪深300",
+    "total_return": 0.351306230974207,
+    "annualized_return": 0.1693325691919958,
+    "annualized_volatility": 0.18529725731249155,
+    "max_drawdown": -0.15663635722844893,
+    "sharpe": 0.9368610098781732,
+    "calmar": 1.081055332160399,
+    "observations": 485
+  },
+  "000905": {
+    "name": "中证500",
+    "total_return": 0.37450013624278977,
+    "annualized_return": 0.1797183166067502,
+    "annualized_volatility": 0.2492316889585465,
+    "max_drawdown": -0.19900229809763548,
+    "sharpe": 0.7873805324982377,
+    "calmar": 0.9030966894592137,
+    "observations": 485
+  },
+  "execution": {
+    "total_cost": 19012.935042161,
+    "gross_traded": 18341125.531809963,
+    "average_daily_turnover": 0.03328673627408752,
+    "filled_orders": 192,
+    "blocked_orders": 0
+  }
+}
